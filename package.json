@@ -1,8 +1,8 @@
 {
-  "name": "paytmchecksum",
-  "description": "This is for paytm checksum creation and verification in node",
-  "version": "1.5.1",
-  "author": "Soumya Vats",
+  "name": "paytmchecksum2",
+  "description": "Paytm Checksum Library for NodeJS",
+  "version": "1.0.0",
+  "author": "Vishal Tyagi",
   "main": "PaytmChecksum.js",
   "keywords": [
     "Paytm",
@@ -16,6 +16,13 @@
   "homepage": "https://developer.paytm.com/docs/checksum/#node",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paytm/Paytm_Node_Checksum"
-  }
+    "url": "git+https://github.com/vishalxtyagi/Paytm_Node_Checksum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishalxtyagi/Paytm_Node_Checksum/issues"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "license": "ISC"
 }
