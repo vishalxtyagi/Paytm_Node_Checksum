@@ -1,4 +1,9 @@
-# Paytm Checksum - Node Language
+# Paytm Checksum for Node.js
+
+[![npm version](https://badge.fury.io/js/paytmchecksum2.svg)](https://badge.fury.io/js/paytmchecksum2)
+[![npm](https://img.shields.io/npm/dt/paytmchecksum2.svg)](https://www.npmjs.com/package/paytmchecksum2)
+[![npm](https://img.shields.io/npm/dm/paytmchecksum2.svg)](https://www.npmjs.com/package/paytmchecksum2)
+[![GitHub license](https://img.shields.io/github/license/vishalxtyagi/Paytm_Node_Checksum.svg)](https://github.com/vishalxtyagi/Paytm_Node_Checksum/blob/main/LICENSE)
 
 This library provides a simple way to generate and verify checksums for Paytm transactions in Node.js. It ensures the integrity and authenticity of transaction data exchanged between your application and the Paytm gateway.
 
@@ -104,3 +109,7 @@ verifyChecksum.then(function(result){
 ## More Information
 
 For more detailed information and advanced usage, please refer to the official [Paytm Checksum documentation](https://developer.paytm.com/docs/checksum/#node).
+
+## License
+
+This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
