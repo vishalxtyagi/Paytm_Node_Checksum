@@ -1,9 +1,10 @@
 {
   "name": "paytmchecksum2",
   "description": "Paytm Checksum Library for NodeJS",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "Vishal Tyagi",
   "main": "PaytmChecksum.js",
+  "types": "PaytmChecksum.d.ts",
   "keywords": [
     "Paytm",
     "Checksum",
