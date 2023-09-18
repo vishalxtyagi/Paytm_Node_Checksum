@@ -30,13 +30,13 @@ You can import the paytmchecksum module using either CommonJS or ES6 syntax, dep
 For CommonJS:
 
 ```javascript
-var paytmChecksum = require('paytmchecksum');
+var paytmChecksum = require('paytmchecksum2');
 ```
 
 For ES6:
 
 ```javascript
-import paytmChecksum from 'paytmchecksum';
+import paytmChecksum from 'paytmchecksum2';
 ```
 
 ## Generate Checksum
